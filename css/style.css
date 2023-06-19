@@ -9,7 +9,7 @@
 
 body {
     text-align: center;
-    background-image: url("/favicons/pokemon.gif");
+    background-image: url("pokedex-8bit/favicons/pokemon.gif");
     background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
